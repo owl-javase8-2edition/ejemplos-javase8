@@ -5,3 +5,4 @@ Repositorio de ejemplos de implementaciones con Java SE8. Curso de Fundamentos d
 Colaboradores
 ===
 - Rafael Benegas - (rafaelbenegas@gmail.com)
+- Nimia Garcia - (nimia.garcia@gmail.com)
