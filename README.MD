@@ -6,3 +6,4 @@ Colaboradores
 ===
 - Rafael Benegas - (rafaelbenegas@gmail.com)
 - Carlos Mendieta - <carlitosmendieta14@gmail.com>
+- Jorge Cáceres - (jorge.caceres2894@gmail.com)
