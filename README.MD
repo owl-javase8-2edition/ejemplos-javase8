@@ -6,6 +6,7 @@ Colaboradores
 ===
 - Rafael Benegas - (rafaelbenegas@gmail.com)
 - Carlos Mendieta - <carlitosmendieta14@gmail.com>
+- Nimia Garcia - (nimia.garcia@gmail.com)
 - Juan Viera	- (juanviera86gmail.com)
 - Alejandro Salinas - <ajsf95@gmail.com>
 - Rosario Ruiz - (roruiz17.00@gmail.com)
