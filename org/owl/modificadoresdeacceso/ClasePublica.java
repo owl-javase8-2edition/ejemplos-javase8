@@ -19,7 +19,7 @@ public class ClasePublica {
 	}
 }
 
-public class ClaseTest {
+class ClaseTest {
 
 }
 
