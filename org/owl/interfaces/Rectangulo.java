@@ -9,6 +9,7 @@ public class Rectangulo implements Figura {
 		this.ancho = ancho;
 	}
 
+	@Override
 	public float getArea() {
 		return largo*ancho;
 	}

@@ -8,6 +8,7 @@ public class Cuadrado implements Figura {
 		this.lado = lado;
 	}
 
+	@Override
 	public float getArea() {
 		return lado*lado;
 	}
